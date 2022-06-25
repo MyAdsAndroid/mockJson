@@ -11,7 +11,21 @@
 					"Bnn_face":"face Banner id",
 					"Interstitial_face":"adb Interstitial id",
 					"Native_face":"face Native id"
+					},
+	"items":
+			[
+					{
+						"title":"title 1",
+						"description":"description 1"
+
+					},
+					{
+						"title" : "title 2",
+						"description" : "description 2"
+
 					}
+
+			]
 					
 			}
 }
