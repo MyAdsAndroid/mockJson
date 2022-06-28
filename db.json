@@ -1,0 +1,45 @@
+{
+"GuideData": {
+     "AdsController": 
+					{
+					"NetworkAds": "admob",
+
+					"Bnn_Adb":"adb Banner id",
+					"Interstitial_Adb":"adb Interstitial id",
+					"Native_Adb":"adb Native id",
+
+					"Bnn_face":"face Banner id",
+					"Interstitial_face":"adb Interstitial id",
+					"Native_face":"face Native id"
+					},
+	"items":
+			[
+					{
+						"title":"title 1",
+						"app_link": "App Link 1",
+						"image_link": "https://media.geeksforgeeks.org/img-practice/banner/fork-cpp-thumbnail.png"
+
+					},
+					{
+						"title" : "title 2",
+						"app_link": "App Link 2",
+						"image_link": "https://media.geeksforgeeks.org/img-practice/banner/linux-shell-scripting-thumbnail.png"
+
+					},
+					{
+						"title" : "title 3",
+						"app_link": "App Link 3",
+						"image_link": "https://media.geeksforgeeks.org/img-practice/banner/Workshop-DSA-thumbnail.png"
+
+					},
+					{
+						"title" : "title 4",
+						"app_link": "App Link 4",
+						"image_link": "https://media.geeksforgeeks.org/img-practice/banner/dsa-self-paced-thumbnail.png"
+
+					}
+
+			]
+					
+			}
+}
