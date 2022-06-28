@@ -17,13 +17,13 @@
 					{
 						"title":"title 1",
 						"app_link", "App Link 1",
-						"image_link": "image Link 1"
+						"image_link": "https://media.geeksforgeeks.org/img-practice/banner/fork-cpp-thumbnail.png"
 
 					},
 					{
 						"title" : "title 2",
 						"app_link", "App Link 2",
-						"image_link": "image Link 2"
+						"image_link": "https://media.geeksforgeeks.org/img-practice/banner/linux-shell-scripting-thumbnail.png"
 
 					}
 
