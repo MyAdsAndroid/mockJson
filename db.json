@@ -16,12 +16,14 @@
 			[
 					{
 						"title":"title 1",
-						"description":"description 1"
+						"app_link", "App Link 1",
+						"image_link": "image Link 1"
 
 					},
 					{
 						"title" : "title 2",
-						"description" : "description 2"
+						"app_link", "App Link 2",
+						"image_link": "image Link 2"
 
 					}
 
