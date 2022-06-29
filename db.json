@@ -2,19 +2,38 @@
 "GuideData": {
      "AdsController": 
 					{
-					"NetworkAds": "admob",
+					"NetworkAds": "Admob",
 
-					"Bnn_Adb":"adb Banner id",
-					"Interstitial_Adb":"adb Interstitial id",
-					"Native_Adb":"adb Native id",
+					"BannerAdmob":"adb Banner id",
+					"InterstitialAdmob":"adb Interstitial id",
+					"NativeAdmob":"adb Native id",
 
-					"Bnn_face":"face Banner id",
-					"Interstitial_face":"adb Interstitial id",
-					"Native_face":"face Native id"
+					"BannerFacebook":"face Banner id",
+					"InterstitialFacebook":"adb Interstitial id",
+					"NativeFacebook":"face Native id"
 					},
 	"items":
 			[
-	
+					{
+						"title":"title 1",
+						"app_link": "App Link 1",
+						"image_link": "https://raw.githubusercontent.com/ifsouy/mockJson/main/photo/logo1.png"
+					},
+					{
+						"title" : "title 2",
+						"app_link": "App Link 2",
+						"image_link": "https://raw.githubusercontent.com/ifsouy/mockJson/main/photo/logo2.png"
+					},
+					{
+						"title" : "title 3",
+						"app_link": "App Link 3",
+						"image_link": "https://raw.githubusercontent.com/ifsouy/mockJson/main/photo/logo1.png"
+					},
+					{
+						"title" : "title 4",
+						"app_link": "App Link 4",
+						"image_link": "https://raw.githubusercontent.com/ifsouy/mockJson/main/photo/logo2.png"
+					}
 
 			]
 					
